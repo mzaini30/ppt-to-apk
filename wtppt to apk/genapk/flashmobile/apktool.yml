@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: SingleFile.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '14'
+packageInfo:
+  cur_package: air.SingleFile
+  orig_package: air.SingleFile
+compressionType: true
